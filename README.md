@@ -58,6 +58,6 @@ Each folder contains its own self-contained implementation of the Airbnb UI scre
 
 ## 🙋‍♂️ Author
 
-Made with care by [Gabriel Peres Bernes](https://www.linkedin.com/in/gabrielperesbernes)
+Made with care by [Gabriel Peres Bernes](https://www.linkedin.com/in/gabriel-peres-bernes/)
 
 Feel free to open issues or discussions if you have feedback or questions.
